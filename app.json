@@ -1,0 +1,18 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/java"
+    }
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "ps-heroku-boot-sample",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
